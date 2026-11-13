@@ -23,7 +23,7 @@ now Pi: 200_000 digits, start in coordinate origin, a spectrum ranging from red 
 
 now Pi: 1_000_000 digits, start in coordinate origin, a spectrum ranging 10 times from red to red to estimate the direction/trace (white box first 200k digits)
 
-<img width="1080" height="1890" alt="grafik" src="https://github.com/user-attachments/assets/60863998-434b-4a64-bfdd-668cb39d859e" />
+<img width="1802" height="1239" alt="grafik" src="https://github.com/user-attachments/assets/ad1e431c-28ce-4ed7-9864-253d2f51bfa7" />
 
 <br><br><br>
 
