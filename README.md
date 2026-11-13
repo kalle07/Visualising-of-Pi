@@ -9,22 +9,22 @@ This program transforms the decimal digits of π into a geometric trajectory.
 example: 0111111111
 
 <img width="1802" height="1239" alt="grafik" src="https://github.com/user-attachments/assets/fd271dbc-8327-48e4-99fc-a88d0a2b8b89" />
-<br>
+<br><br>
 
 example: 019191919
 
 <img width="1802" height="1239" alt="grafik" src="https://github.com/user-attachments/assets/8ecfa664-54cc-4ac8-b391-de8baea48ab8" />
-<br>
+<br><br>
 
 now Pi: 200_000 digits, start in coordinate origin, a spectrum ranging from red to red to estimate the direction/trace
 
 <img width="1802" height="1239" alt="grafik" src="https://github.com/user-attachments/assets/553a7e97-a6f6-4273-be75-51c4e19f36c9" />
-<br>
+<br><br>
 
 now Pi: 1_000_000 digits, start in coordinate origin, a spectrum ranging 10 times from red to red to estimate the direction/trace (white box first 200k digits)
 
 <img width="1720" height="1210" alt="grafik" src="https://github.com/user-attachments/assets/fede9043-5aba-47e4-9a69-390f60cd7ef2" />
-<br><br>
+<br><br><br>
 
 Each digit is interpreted as an angular increment. These increments are accumulated to determine the current direction of movement. After each angular update, the program moves exactly one unit in that direction.
 
