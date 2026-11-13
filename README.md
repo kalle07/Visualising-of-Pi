@@ -159,6 +159,8 @@ The central question is what geometric structures emerge when the digits of π a
 
 The trajectory provides an interactive way to explore the numerical sequence, investigate its spatial distribution and examine its appearance at different scales.
 
+It is clear that, in some regions, a certain number of digits is not distributed evenly.
+
 **In essence: The first digit establishes the direction. Every subsequent digit changes that direction and produces one unit of movement. The complete sequence of π becomes a continuous two-dimensional trajectory.**
 
 <br>
