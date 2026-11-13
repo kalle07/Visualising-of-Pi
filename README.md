@@ -21,7 +21,8 @@ now Pi: 200_000 digits, start in coordinate origin, a spectrum ranging from red 
 <img width="1802" height="1239" alt="grafik" src="https://github.com/user-attachments/assets/553a7e97-a6f6-4273-be75-51c4e19f36c9" />
 <br><br>
 
-now Pi: 1_000_000 digits, start in coordinate origin, a spectrum ranging 10 times from red to red to estimate the direction/trace (white box first 200k digits)
+now Pi: 1_000_000 digits, start in coordinate origin, a spectrum ranging 10 times from red to red to estimate the direction/trace (white box first 200k digits)<br>
+you can use up to 1 billion digits it will work
 
 <img width="1802" height="1239" alt="grafik" src="https://github.com/user-attachments/assets/ad1e431c-28ce-4ed7-9864-253d2f51bfa7" />
 
@@ -164,3 +165,10 @@ The trajectory provides an interactive way to explore the numerical sequence, in
 
 Start:
 pi_visualize.py
+
+
+
+<br><br><br>
+the main idea was from Francisco J. Arag´on Artacho∗ David H. Bailey† Jonathan M. Borwein‡ Peter B. Borwein § - July 23, 2012
+<br>
+PDF -> repo
