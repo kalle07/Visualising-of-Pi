@@ -23,7 +23,8 @@ now Pi: 200_000 digits, start in coordinate origin, a spectrum ranging from red 
 
 now Pi: 1_000_000 digits, start in coordinate origin, a spectrum ranging 10 times from red to red to estimate the direction/trace (white box first 200k digits)
 
-<img width="1720" height="1210" alt="grafik" src="https://github.com/user-attachments/assets/fede9043-5aba-47e4-9a69-390f60cd7ef2" />
+<img width="1720" height="1210" alt="grafik" src="https://github.com/user-attachments/assets/47ef9237-c4ea-4597-bfd8-9eb5aad9a715" />
+
 <br><br><br>
 
 Each digit is interpreted as an angular increment. These increments are accumulated to determine the current direction of movement. After each angular update, the program moves exactly one unit in that direction.
