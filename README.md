@@ -163,6 +163,11 @@ It is clear that, in some regions, a certain number of digits is not distributed
 
 **In essence: The first digit establishes the direction. Every subsequent digit changes that direction and produces one unit of movement. The complete sequence of π becomes a continuous two-dimensional trajectory.**
 
+looks a bit like the universe
+https://www.nature.com/nature/volumes/435/issues/7042
+
+<img width="768" height="1024" alt="grafik" src="https://github.com/user-attachments/assets/5fcea087-f087-4d0d-a584-a6c4d06dd35e" />
+
 <br>
 
 Start:
